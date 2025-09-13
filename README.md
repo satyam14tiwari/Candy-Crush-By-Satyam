@@ -1,5 +1,5 @@
 🍬 Candy Crush Game
-
+Live demo link - https://satyam14tiwari.github.io/Candy-Crush-By-Satyam/
 A simple Candy Crush clone built using HTML, CSS, and JavaScript.
 Match 3 or more candies to score points! 🎮
 
